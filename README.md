@@ -162,10 +162,8 @@
 
             <div class="contact">
                 <p>
-                    I'm a beginner web developer building my skills
-                    in HTML, CSS and JavaScript. My goal is to create
-                    professional websites that look great on phones,
-                    tablets and computers.
+                I'm a basic website developer building skills in some parts of my skills related to
+                professional websites. Follow me on this journey.
                 </p>
             </div>
         </section>
