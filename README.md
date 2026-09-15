@@ -147,7 +147,7 @@
     <main>
 
         <div class="hero">
-            <h1>Hi, I'm <span>Your Name</span></h1>
+            <h1>Hi, I'm <span>Kazim Ali</span></h1>
 
             <p>
                 I create clean, modern and responsive websites
